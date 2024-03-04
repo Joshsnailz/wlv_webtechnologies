@@ -1,12 +1,19 @@
-# Getting Started with Create React App
+# My workout recorder frontend application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## How to run this application
 
 In the project directory, you can run:
 
 ### `npm start`
+
+to experience the full feature of the web application, you need to make sure that your backend is running on port 8080, or you can configure the respective port in the package.json file of this repository.
+
+After setting up you can import the sql file in the backend repo into your sql server, it should seed a few example accounts and workouts, you can also signup or create your own workouts. 
+
+Here is some sample accounts you can use: 
+tari@amdin.com St1k8mck#
+josh@example.com `#pass1234`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
